@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaseenahmed/Workspace/AUC/Academics/Spring 2022/Linear Algebra/Project/Code/main.cpp
+iostream
+-
+vector
+-
+
