@@ -3,9 +3,9 @@
 
 This C++ program allows you to solve a system of linear equations represented as a matrix equation. Given a square coefficient matrix and a constant vector, the program finds the solutions for the variables in the system using Cramer's rule.
 
-## Table of Contents-solver)
+## Table of Contents
 - [Matrix Equation Solver](#matrix-equation-solver)
-  - [Table of Contents-solver)](#table-of-contents-solver)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [How to Use](#how-to-use)
   - [Dependencies](#dependencies)
